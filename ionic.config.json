@@ -1,5 +1,7 @@
 {
   "name": "tessractProject",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }

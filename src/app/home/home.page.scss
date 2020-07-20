@@ -25,3 +25,34 @@
 #container a {
   text-decoration: none;
 }
+
+.imgPosition {
+  position: relative;
+  text-align: center;
+  // height: 350px;
+  // width:100%;
+}
+
+.iconColors {
+  ion-icon{
+    color: blue !important;
+  }
+}
+
+ion-card-header {
+  color: blue;
+}
+
+.marigins{
+  margin-left: 26px;
+}
+.marigins2{
+  margin-left:40px;
+}
+
+.textcolor{
+  color: green;
+  font-size: 1.5em;
+  text-align: center;
+  justify-content: center;
+}
